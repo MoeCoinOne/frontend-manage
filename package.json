@@ -15,7 +15,7 @@
     "lint-fix": "eslint --fix .js,.vue src"
   },
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.21.1",
     "echarts": "^3.7.1",
     "element-ui": "^1.4.5",
     "jquery": "^3.2.1",
